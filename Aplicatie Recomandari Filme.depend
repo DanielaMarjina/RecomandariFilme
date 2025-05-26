@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1747500656 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<algorithm>
+	"Film.h"
+	"FilmComedie.h"
+	"FilmActiune.h"
+	"FilmDragoste.h"
+	"FilmDrama.h"
+	"FilmThriller.h"
+	"RecomandariFilme.h"
+
+1747497223 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\film.h
+	<iostream>
+	<cstring>
+
+1747497243 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\film.cpp
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497266 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\filmcomedie.cpp
+	"FilmComedie.h"
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497287 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\filmcomedie.h
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497403 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\filmdrama.cpp
+	"FilmDrama.h"
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497403 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\filmdrama.h
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497223 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\filmactiune.h
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497332 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\filmdragoste.h
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497403 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\filmthriller.h
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747500534 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\recomandarifilme.h
+	<iostream>
+	<cstring>
+	"Film.h"
+	"FilmComedie.h"
+	"FilmActiune.h"
+	"FilmDragoste.h"
+	"FilmDrama.h"
+	"FilmThriller.h"
+	<fstream>
+
+1747497223 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\filmactiune.cpp
+	"FilmActiune.h"
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497314 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\filmdragoste.cpp
+	"FilmDragoste.h"
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1747497403 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\filmthriller.cpp
+	"FilmThriller.h"
+	"Film.h"
+	<iostream>
+	<cstring>
+
+1742395463 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\recomandarifilme.cpp
+	"RecomandariFilme.h"
+	<iostream>
+	<cstring>
+	"Film.h"
+	"FilmComedie.h"
+	"FilmActiune.h"
+	"FilmDragoste.h"
+	"FilmDrama.h"
+	"FilmThriller.h"
+	<fstream>
+	<sstream>
+
+1747492296 c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\include\filmgen.h
+	<iostream>
+	<cstring>
+	"Film.h"
+
+1747492935 source:c:\users\danie\onedrive\desktop\univer 24\c++\aplicatie recomandari filme\src\filmgen.cpp
+	"FilmGen.h"
+	"Film.h"
+	<iostream>
+	<cstring>
+	"Film.h"
+	"FilmComedie.h"
+	"FilmActiune.h"
+	"FilmDragoste.h"
+	"FilmDrama.h"
+	"FilmThriller.h"
+	"RecomandariFilme.h"
+

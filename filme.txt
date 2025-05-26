@@ -1,0 +1,15 @@
+After Hours,Drama,Martin Scorsese,Griffin Dunne | Rosanna Arquette,1985,4.5
+Before Sunrise,Dragoste,Richard Linklater,Ethan Hawke | Julie Delpy,1995,4.5
+The Worst Person in the World,Drama,Joachim Trier,Renate Reinsve | Anders Danielsen Lie,2021,5
+The Darjeeling Limited,Comedie,Wes Anderson,Owen Wilson | Adrien Brody,2007,3.5
+Bullet Train,Actiune,David Leitch,Brad Pitt | Joey King,2022,5
+La La Land,Dragoste,Damien Chazelle,Ryan Gosling | Emma Stone,2016,5
+Kill Bill,Actiune,Quentin Tarantino,Uma Thurman | Lucy Liu,2003,5
+Memento,Thriller,Christopher Nolan,Guy Pearce | Carrie-Anne Moss,2000,5
+Scarface,Actiune,Brian De Palma,Al Pacino | Steven Bauer,1983,5
+We're the Millers,Comedie,Rawson Marshall Thurber,Jennifer Aniston | Jason Sudeikis,2013,3.5
+Shutter Island,Thriller,Martin Scorsese,Leonardo DiCaprio | Mark Ruffalo,2010,4.5
+How to Lose a Guy in 10 Days,Dragsote,Donald Petrie,Kate Hudson | Matthew McConaughey,2003,4
+Zoolander,Comedie,Ben Stiller,Ben Stiller | Owen Wilson,2001,3.5
+12 Angry Men,Drama,Sidney Lumet,Martin Balsam | John Fiedler,1957,4
+Gone Girl,Thriller,David Fincher,Ben Affleck | Rosamund Pike,2014,4
